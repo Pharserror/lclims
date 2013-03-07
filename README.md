@@ -1,7 +1,7 @@
 lclims
 ======
 
-LIMS for Lab/Cor Materials showing usage and features
+LIMS for Lab/Cor Materials showing usage and features - note all times in ms shown in the upper-left of the application are from a gem called "mini-profiler" used for administrative analysis of an application in regards to client and server response times.
 
 Logging in to the LIMS
 ![LIMS login](http://i.imgur.com/9FlQVoI.png)
